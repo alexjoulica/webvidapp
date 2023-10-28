@@ -1,1 +1,0 @@
-{"intents":[{"name":"ReturnVal","samples":["Return a value"],"slots":[]}],"types":[],"prompts":[],"dialog":{"version":"1.0","intents":[{"name":"ReturnVal","confirmationRequired":false,"prompts":{},"slots":[]}]}}
